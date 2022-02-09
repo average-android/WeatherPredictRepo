@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(41, 108, 134);
+}
+
+.uv-good{
+    background-color: rgb(90, 209, 90);
+    border-radius: 5px;
+    color: white;
+}
+.uv-moderate{
+    background-color: rgb(198, 226, 38);
+    border-radius: 5px;
+    color: white;
+}
+
+.uv-danger{ 
+    background-color: rgb(226, 60, 38);
+    border-radius: 5px;
+    color: white;
+}
+
+#current-forecast {
+    background-color: rgb(138, 237, 255);
+}
